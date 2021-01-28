@@ -3,7 +3,7 @@
         "prod": "searx.kloud.software",
         "dev": "searx.kloud.software"
       },
-    "registryImagePath": "searx:searx",
+    "registryImagePath": "searx/searx:latest",
     "environmentVariables": {
         "dev": {
           "INSTANCE_NAME ": "kloudsoftware's searx",
