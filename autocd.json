@@ -1,7 +1,7 @@
 {
     "subdomains": {
-        "prod": "ds.kloud.software",
-        "dev": "ds.kloud.software"
+        "prod": "searx.kloud.software",
+        "dev": "searx.kloud.software"
       },
     "registryImagePath": "searx:searx",
     "environmentVariables": {
