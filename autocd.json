@@ -1,0 +1,14 @@
+{
+    "subdomainsEnv": {
+        "prod": "searx.kloud.software"
+    },
+    "registryImagePath": "searx:searx",
+    "environmentVariables": {
+        "dev": {
+          "INSTANCE_NAME ": "kloudsoftware's searx",
+          "AUTOCOMPLETE" : true,
+          "BASE_URL"  : "searx.kloud.software"    
+        }
+    },
+    "containerPort": 8080
+}
