@@ -5,7 +5,7 @@
       },
     "registryImagePath": "searx/searx:latest",
     "environmentVariables": {
-        "dev": {
+        "prod": {
           "INSTANCE_NAME ": "kloudsoftware's searx",
           "AUTOCOMPLETE" : true,
           "BASE_URL"  : "searx.kloud.software"    
