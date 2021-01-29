@@ -2,13 +2,13 @@
     "subdomains": {
         "prod": "searx.kloud.software",
         "dev": "searx.kloud.software"
-      },
+    },
     "registryImagePath": "searx/searx:latest",
     "environmentVariables": {
         "prod": {
-          "INSTANCE_NAME ": "kloudsoftware's searx",
-          "AUTOCOMPLETE" : "true",
-          "BASE_URL"  : "searx.kloud.software"    
+            "INSTANCE_NAME": "kloudsoftware's searx",
+            "AUTOCOMPLETE": "true",
+            "BASE_URL": "searx.kloud.software"
         }
     },
     "containerPort": 8080
