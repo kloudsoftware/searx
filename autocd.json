@@ -7,7 +7,7 @@
     "environmentVariables": {
         "prod": {
             "INSTANCE_NAME": "kloudsoftware's searx",
-            "AUTOCOMPLETE": "true",
+            "AUTOCOMPLETE": "true"
         }
     },
     "containerPort": 8080
