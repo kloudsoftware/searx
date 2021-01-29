@@ -5,10 +5,10 @@
     },
     "registryImagePath": "searx/searx:latest",
     "environmentVariables": {
-        "prod": {
+        "dev": {
             "INSTANCE_NAME": "kloudsoftware's searx",
             "AUTOCOMPLETE": "true",
-            "BASE_URL": "searx.kloud.software"
+            "BASE_URL": "https://searx.kloud.software"
         }
     },
     "containerPort": 8080
