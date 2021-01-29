@@ -8,7 +8,6 @@
         "prod": {
             "INSTANCE_NAME": "kloudsoftware's searx",
             "AUTOCOMPLETE": "true",
-            "BASE_URL": "searx.kloud.software"
         }
     },
     "containerPort": 8080
